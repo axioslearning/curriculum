@@ -2,10 +2,6 @@
 author: catalin
 type: normal
 category: must-know
-links:
-  - >-
-    [30 days of
-    React](https://www.fullstackreact.com/30-days-of-react/day-1/){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap
