@@ -27,7 +27,7 @@ revisionQuestion:
 
 ## Content
 
-The HTML `<dl>`, or the **Description List** element is used to represent a description list or a glossary. The items/terms in the `<dl>` element are represented with the `<dt>` element, and the descriptions are specified with the `<dd>` element. The purpose for this is organizing the information in logical ways for search engines. It also provides clear methods for styling with CSS, so don't overlook this method when seeing that the default styling appears that it just indents the content.
+The HTML `<dl>`, or the **Description List** element is used to represent a description list or a glossary. The items/terms in the `<dl>` element are represented with the `<dt>` element, and the descriptions are specified with the `<dd>` element. The purpose for this is organizing the information in logical ways for search engines. It also provides clear methods for styling with CSS, so don’t overlook this method just because the default styling appears to only indent the content.
 
 Simple example:
 
