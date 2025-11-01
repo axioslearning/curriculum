@@ -63,7 +63,7 @@ The two most common lists in HTML are ordered (`<ol>`) and unordered (`<ul>`).
 
 Lists can be nested within other lists. 
 
-When nested, each list section displays starting from either 1 or whatever the `start` attributes value is.
+When nested, each list section displays starting from either 1 or whatever the `start` attribute's value is.
 
 Additionally, you can add a different style for each `<ol>` section in the nested list.
 
