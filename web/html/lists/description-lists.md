@@ -51,7 +51,7 @@ Result:
 
 [View CodePen](https://codepen.io/enkidevs/pen/LByPZZ)
 
-Next to having one term and one description, you can have multiple terms as well as multiple descriptions.
+In addition to having one term and one description, you can also have multiple terms and multiple descriptions.
 
 The same example with 1 term added:
 
