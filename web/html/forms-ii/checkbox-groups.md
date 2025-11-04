@@ -116,7 +116,7 @@ The 'name' & 'value' attributes work as a pair in keeping track of the data sent
 
 When this data is submitted and sent to the server, it can be captured as an array of related values.
 
-<!--Handling multiple checkboxes with a single server variable: '[Check out Here](https://stackoverflow.com/questions/18745456/handle-multiple-checkboxes-with-a-single-serverside-variable)'-->
+<a href="https://stackoverflow.com/questions/18745456/handle-multiple-checkboxes-with-a-single-serverside-variable">See also:Handling multiple checkboxes with a single server variable [Stack Overflow]</a>
 
 Furthermore, you can add a `checked` attribute to make a checkbox checked by default. Additionally, if the answers you provided are not enough, you can add an `other` checkbox with a `textfield` for the user to type an answer themselves.
 
