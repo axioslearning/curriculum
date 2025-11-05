@@ -67,8 +67,8 @@ If you'd like to only style the elements bold without bringing attention to them
 
 [View CodePen](https://codepen.io/enkidevs/pen/OwNXqB)
 
-> 💡 If a `<table>` element has a `<caption>` and is the only child of a `<figure>` element, you should use a `<figcaption>` instead of the `<caption>` element.
 
+> 💡 If a `<table>` element has a `<caption>` and is the only child of a `<figure>` element, you may use a `<figcaption>` instead of the `<caption>` element only if the caption describes the entire figure, not just the table.
 
 ---
 
