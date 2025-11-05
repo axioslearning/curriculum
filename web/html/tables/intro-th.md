@@ -96,7 +96,7 @@ Sometimes it can make sense using tabular headers on both the first row and firs
 
 **Tabular Header Attributes***
 
-The `abbr` attribute is used to add an abbreviated description for the content of a cell and speech readers may present this description rather than the content of the cell.
+> Previously, screen readers used the abbr attribute to provide a brief description of table headers. This attribute is now deprecated and no longer supported. Instead, use the <title> element, or preferably, include the full content directly within the data cell and use CSS to handle overflowing text. The following is demonstrated for legacy purposes only. 
 
 ```html
 <table>
